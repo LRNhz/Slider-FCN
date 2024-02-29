@@ -20,7 +20,7 @@
             <ImageFillColor>#000000</ImageFillColor>
             <ImageHeight>1080</ImageHeight>
             <ImageQuality>90</ImageQuality>
-            <ImageShrink2>true</ImageShrink2>
+            <ImageShrink2>false</ImageShrink2>
             <ImageStretch>false</ImageStretch>
             <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/absent/</ImageTemplate>
             <ImageTemplateName>Absent</ImageTemplateName>
@@ -61,12 +61,49 @@
         </Settings>
         <Images RelativePath="true">
             <Image>
+                <url>../../Downloads/Adoração-TV Corporativa.png</url>
+                <usertarget>_self</usertarget>
+                <filesize>2566143</filesize>
+            </Image>
+            <Image>
                 <url>../../Downloads/AULA_INAUGURAL_Telogia para leigos.png</url>
+                <usertarget>_self</usertarget>
                 <filesize>2368576</filesize>
             </Image>
             <Image>
-                <url>../../Downloads/Adoração-TV Corporativa.png</url>
-                <filesize>2566143</filesize>
+                <url>../../Downloads/drive-download-20240229T210520Z-001/1.png</url>
+                <title>1</title>
+                <filesize>2688372</filesize>
+            </Image>
+            <Image>
+                <url>../../Downloads/drive-download-20240229T210520Z-001/2.png</url>
+                <title>2</title>
+                <filesize>2850952</filesize>
+            </Image>
+            <Image>
+                <url>../../Downloads/drive-download-20240229T210520Z-001/3.png</url>
+                <title>3</title>
+                <filesize>2911557</filesize>
+            </Image>
+            <Image>
+                <url>../../Downloads/drive-download-20240229T210520Z-001/4.png</url>
+                <title>4</title>
+                <filesize>2830241</filesize>
+            </Image>
+            <Image>
+                <url>../../Downloads/drive-download-20240229T210520Z-001/Ouvidoria.png</url>
+                <title>Ouvidoria</title>
+                <filesize>1057771</filesize>
+            </Image>
+            <Image>
+                <url>../../Downloads/drive-download-20240229T210520Z-001/Água.png</url>
+                <title>Água</title>
+                <filesize>1195583</filesize>
+            </Image>
+            <Image>
+                <url>../../Downloads/drive-download-20240229T210520Z-001/Wallpaper.png</url>
+                <title>Wallpaper</title>
+                <filesize>137586</filesize>
             </Image>
         </Images>
     </Gallery>
