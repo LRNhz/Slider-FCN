@@ -61,106 +61,54 @@
         </Settings>
         <Images RelativePath="true">
             <Image>
-<<<<<<< HEAD
-                <url>data1/images/1.png</url>
-=======
-                <url>Imagens/Adoração-TV Corporativa.png</url>
-                <title>Adoração-TV Corporativa</title>
-                <filesize>2566143</filesize>
-            </Image>
-            <Image>
                 <url>Imagens/AULA_INAUGURAL_Telogia para leigos.png</url>
                 <title>AULA_INAUGURAL_Telogia para leigos</title>
                 <filesize>2368576</filesize>
             </Image>
             <Image>
+                <url>Imagens/Adoração-TV Corporativa.png</url>
+                <title>Adoração-TV Corporativa</title>
+                <filesize>2566143</filesize>
+            </Image>
+            <Image>
+                <url>Imagens/Maria Fernanda.png</url>
+                <title>Maria Fernanda</title>
+                <filesize>755000</filesize>
+            </Image>
+            <Image>
                 <url>Imagens/1.png</url>
->>>>>>> e3efb1525e351c224691d5b718d70c5926d437ac
                 <title>1</title>
-                <filesize>2697410</filesize>
+                <filesize>2688372</filesize>
             </Image>
             <Image>
-<<<<<<< HEAD
-                <url>data1/images/2.png</url>
-=======
                 <url>Imagens/2.png</url>
->>>>>>> e3efb1525e351c224691d5b718d70c5926d437ac
                 <title>2</title>
-                <filesize>2858132</filesize>
+                <filesize>2850952</filesize>
             </Image>
             <Image>
-<<<<<<< HEAD
-                <url>data1/images/3.png</url>
-=======
                 <url>Imagens/3.png</url>
->>>>>>> e3efb1525e351c224691d5b718d70c5926d437ac
                 <title>3</title>
-                <filesize>2919185</filesize>
+                <filesize>2911557</filesize>
             </Image>
             <Image>
-<<<<<<< HEAD
-                <url>data1/images/4.png</url>
-=======
                 <url>Imagens/4.png</url>
->>>>>>> e3efb1525e351c224691d5b718d70c5926d437ac
                 <title>4</title>
-                <filesize>2838142</filesize>
+                <filesize>2830241</filesize>
             </Image>
             <Image>
-<<<<<<< HEAD
-                <url>data1/images/adoracao.gif</url>
-                <title>adoracao</title>
-                <filesize>11577302</filesize>
-            </Image>
-            <Image>
-                <url>data1/images/adoraotv_corporativa.png</url>
-                <title>adoraotv_corporativa</title>
-                <filesize>2573483</filesize>
-            </Image>
-            <Image>
-                <url>data1/images/aula_inaugural_telogia_para_leigos.png</url>
-                <title>aula_inaugural_telogia_para_leigos</title>
-                <filesize>2364717</filesize>
-            </Image>
-            <Image>
-                <url>data1/images/gua.png</url>
-                <title>gua</title>
-                <filesize>1200138</filesize>
-            </Image>
-            <Image>
-                <url>data1/images/lofianimegirlstudying1282023.png</url>
-                <title>lofianimegirlstudying1282023</title>
-                <filesize>2256041</filesize>
-            </Image>
-            <Image>
-                <url>data1/images/marcafcn_branco.png</url>
-                <title>marcafcn_branco</title>
-                <filesize>94956</filesize>
-            </Image>
-            <Image>
-                <url>data1/images/ouvidoria.png</url>
-                <title>ouvidoria</title>
-                <filesize>1061675</filesize>
-            </Image>
-            <Image>
-                <url>data1/images/wallpaper.png</url>
-                <title>wallpaper</title>
-                <filesize>139901</filesize>
-=======
                 <url>Imagens/Ouvidoria.png</url>
                 <title>Ouvidoria</title>
                 <filesize>1057771</filesize>
             </Image>
             <Image>
-                <url>Imagens/Wallpaper.png</url>
-                <title>Wallpaper</title>
-                <filesize>137586</filesize>
->>>>>>> e3efb1525e351c224691d5b718d70c5926d437ac
-            </Image>
-            <Image>
                 <url>Imagens/Água.png</url>
                 <title>Água</title>
                 <filesize>1195583</filesize>
+            </Image>
+            <Image>
+                <url>Imagens/Wallpaper.png</url>
+                <title>Wallpaper</title>
+                <filesize>137586</filesize>
             </Image>
         </Images>
     </Gallery>
