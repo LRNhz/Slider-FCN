@@ -61,49 +61,49 @@
         </Settings>
         <Images RelativePath="true">
             <Image>
-                <url>../../Downloads/Adoração-TV Corporativa.png</url>
-                <usertarget>_self</usertarget>
+                <url>Imagens/Adoração-TV Corporativa.png</url>
+                <title>Adoração-TV Corporativa</title>
                 <filesize>2566143</filesize>
             </Image>
             <Image>
-                <url>../../Downloads/AULA_INAUGURAL_Telogia para leigos.png</url>
-                <usertarget>_self</usertarget>
+                <url>Imagens/AULA_INAUGURAL_Telogia para leigos.png</url>
+                <title>AULA_INAUGURAL_Telogia para leigos</title>
                 <filesize>2368576</filesize>
             </Image>
             <Image>
-                <url>../../Downloads/drive-download-20240229T210520Z-001/1.png</url>
+                <url>Imagens/1.png</url>
                 <title>1</title>
                 <filesize>2688372</filesize>
             </Image>
             <Image>
-                <url>../../Downloads/drive-download-20240229T210520Z-001/2.png</url>
+                <url>Imagens/2.png</url>
                 <title>2</title>
                 <filesize>2850952</filesize>
             </Image>
             <Image>
-                <url>../../Downloads/drive-download-20240229T210520Z-001/3.png</url>
+                <url>Imagens/3.png</url>
                 <title>3</title>
                 <filesize>2911557</filesize>
             </Image>
             <Image>
-                <url>../../Downloads/drive-download-20240229T210520Z-001/4.png</url>
+                <url>Imagens/4.png</url>
                 <title>4</title>
                 <filesize>2830241</filesize>
             </Image>
             <Image>
-                <url>../../Downloads/drive-download-20240229T210520Z-001/Ouvidoria.png</url>
+                <url>Imagens/Ouvidoria.png</url>
                 <title>Ouvidoria</title>
                 <filesize>1057771</filesize>
             </Image>
             <Image>
-                <url>../../Downloads/drive-download-20240229T210520Z-001/Água.png</url>
-                <title>Água</title>
-                <filesize>1195583</filesize>
-            </Image>
-            <Image>
-                <url>../../Downloads/drive-download-20240229T210520Z-001/Wallpaper.png</url>
+                <url>Imagens/Wallpaper.png</url>
                 <title>Wallpaper</title>
                 <filesize>137586</filesize>
+            </Image>
+            <Image>
+                <url>Imagens/Água.png</url>
+                <title>Água</title>
+                <filesize>1195583</filesize>
             </Image>
         </Images>
     </Gallery>
