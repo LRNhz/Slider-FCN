@@ -61,11 +61,6 @@
         </Settings>
         <Images RelativePath="true">
             <Image>
-                <url>Imagens/AULA_INAUGURAL_Telogia para leigos.png</url>
-                <title>AULA_INAUGURAL_Telogia para leigos</title>
-                <filesize>2368576</filesize>
-            </Image>
-            <Image>
                 <url>Imagens/ado.gif</url>
                 <title>ado</title>
                 <filesize>11577302</filesize>
