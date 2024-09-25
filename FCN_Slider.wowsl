@@ -59,52 +59,6 @@
             <TooltipPos>bottom</TooltipPos>
             <noFrame>0</noFrame>
         </Settings>
-        <Images RelativePath="true">
-            <Image>
-                <url>Imagens/ado.gif</url>
-                <title>ado</title>
-                <filesize>11577302</filesize>
-            </Image>
-            <Image>
-                <url>Imagens/Maria Fernanda.png</url>
-                <title>Maria Fernanda</title>
-                <filesize>755000</filesize>
-            </Image>
-            <Image>
-                <url>Imagens/1.png</url>
-                <title>1</title>
-                <filesize>2688372</filesize>
-            </Image>
-            <Image>
-                <url>Imagens/2.png</url>
-                <title>2</title>
-                <filesize>2850952</filesize>
-            </Image>
-            <Image>
-                <url>Imagens/3.png</url>
-                <title>3</title>
-                <filesize>2911557</filesize>
-            </Image>
-            <Image>
-                <url>Imagens/4.png</url>
-                <title>4</title>
-                <filesize>2830241</filesize>
-            </Image>
-            <Image>
-                <url>Imagens/Ouvidoria.png</url>
-                <title>Ouvidoria</title>
-                <filesize>1057771</filesize>
-            </Image>
-            <Image>
-                <url>Imagens/Água.png</url>
-                <title>Água</title>
-                <filesize>1195583</filesize>
-            </Image>
-            <Image>
-                <url>Imagens/Wallpaper.png</url>
-                <title>Wallpaper</title>
-                <filesize>137586</filesize>
-            </Image>
-        </Images>
+        <Images RelativePath="true"/>
     </Gallery>
 </VisualLightBox>
