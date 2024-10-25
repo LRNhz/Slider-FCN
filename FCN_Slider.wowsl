@@ -20,8 +20,8 @@
             <ImageFillColor>#000000</ImageFillColor>
             <ImageHeight>1080</ImageHeight>
             <ImageQuality>90</ImageQuality>
-            <ImageShrink2>false</ImageShrink2>
-            <ImageStretch>false</ImageStretch>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
             <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/absent/</ImageTemplate>
             <ImageTemplateName>Absent</ImageTemplateName>
             <ImageWidth>1920</ImageWidth>
@@ -37,10 +37,10 @@
             <PublishPreview>true</PublishPreview>
             <PublishType>file</PublishType>
             <RelativePath>true</RelativePath>
-            <ShowBullets>1</ShowBullets>
+            <ShowBullets>0</ShowBullets>
             <ShowControls>false</ShowControls>
             <ShowTooltips>0</ShowTooltips>
-            <SizeStyle>3</SizeStyle>
+            <SizeStyle>1</SizeStyle>
             <SlideshowDelay>79</SlideshowDelay>
             <SlideshowDuration>20</SlideshowDuration>
             <SoundEnable>0</SoundEnable>
@@ -63,7 +63,13 @@
             <Image>
                 <url>Imagens/2 volta.png</url>
                 <title>2 volta</title>
+                <usertarget>_self</usertarget>
                 <filesize>626271</filesize>
+            </Image>
+            <Image>
+                <url>Imagens/vestibular.png</url>
+                <title>vestibular</title>
+                <filesize>1046465</filesize>
             </Image>
             <Image>
                 <url>Imagens/Ouvidoria.png</url>
