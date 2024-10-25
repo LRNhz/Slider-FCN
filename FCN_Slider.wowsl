@@ -59,6 +59,27 @@
             <TooltipPos>bottom</TooltipPos>
             <noFrame>0</noFrame>
         </Settings>
-        <Images RelativePath="true"/>
+        <Images RelativePath="true">
+            <Image>
+                <url>Imagens/2 volta.png</url>
+                <title>2 volta</title>
+                <filesize>626271</filesize>
+            </Image>
+            <Image>
+                <url>Imagens/Ouvidoria.png</url>
+                <title>Ouvidoria</title>
+                <filesize>1057771</filesize>
+            </Image>
+            <Image>
+                <url>Imagens/Wallpaper.png</url>
+                <title>Wallpaper</title>
+                <filesize>137586</filesize>
+            </Image>
+            <Image>
+                <url>Imagens/Água.png</url>
+                <title>Água</title>
+                <filesize>1195583</filesize>
+            </Image>
+        </Images>
     </Gallery>
 </VisualLightBox>
